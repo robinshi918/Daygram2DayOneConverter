@@ -1,12 +1,30 @@
-
 import re
 
 # December 15 Tuesday 2015 /
 
-s1 = 'December 15 Tuesday 2015 /   December 17 Monday 2015 /  January 15 Wednesday 2016 /'
-pattern = r"(January|February|December) [0-3][0-9] (Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday) 20[0-9][0-9] /"
-for match in re.finditer(pattern, s1):
-    s = match.start()
-    e = match.end()
-    print '"%s" at %d:%d' % (s1[s:e], s, e)
+with open('data2.txt', 'r') as myfile:
+    data = myfile.read()
 
+pattern = r"(January|February|March|April|May|June|July|August|September|October|November|December|) [0-3][0-9] (Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday) 20[0-9][0-9] /"
+tag_start = 0
+tag_end = 0
+for match in re.finditer(pattern, data):
+    tag_start = match.start()
+    tag_end = match.end()
+    value_watch = data[tag_start:tag_end]
+    # print '"%s" at %d:%d' % (data[s:e], tag_start, tag_end)
+
+    if tag_start != 0:
+        body_end = tag_start
+        body = data[body_start:body_end]
+        print("tag:" + tag)
+        print("body:\n" + body)
+
+    body_start = tag_end + 1
+    tag = data[tag_start:tag_end]
+
+# the last match
+if tag_start != 0:
+    print("last match content")
+    print("tag:" + tag)
+    print("body:\n" + data[tag_end+1:])
