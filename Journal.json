@@ -1,0 +1,297 @@
+{
+"metadata" : {
+  "version" : "1.0"
+},
+"entries" : [
+{
+  "creationOSVersion" : "10.15.4",
+  "uuid" : "5D7B30EFF33641198E8A5C7F331A7668",
+  "timeZone" : "Pacific\/Auckland",
+  "text" : "This is something happened in history even earlier.",
+  "creationDeviceType" : "MacBook Pro",
+  "duration" : 0,
+  "starred" : false,
+  "creationDeviceModel" : "MacBookPro12,1",
+  "creationDate" : "2020-05-03T00:00:00Z",
+  "modifiedDate" : "2020-05-09T21:13:47Z",
+  "creationDevice" : "MacBook Pro",
+  "editingTime" : 0,
+  "creationOSName" : "macOS"
+},
+{
+  "creationOSVersion" : "10.15.4",
+  "uuid" : "49058FC25FE045CA91EA9E7229E76E87",
+  "timeZone" : "Pacific\/Auckland",
+  "text" : "This is something happened in history.",
+  "creationDeviceType" : "MacBook Pro",
+  "duration" : 0,
+  "starred" : false,
+  "creationDeviceModel" : "MacBookPro12,1",
+  "creationDate" : "2020-05-05T00:00:00Z",
+  "modifiedDate" : "2020-05-09T21:13:47Z",
+  "creationDevice" : "MacBook Pro",
+  "editingTime" : 0,
+  "creationOSName" : "macOS"
+},
+{
+  "timeZone" : "Pacific\/Auckland",
+  "creationDate" : "2020-05-05T00:00:00Z",
+  "creationDeviceModel" : "MacBookPro12,1",
+  "duration" : 0,
+  "modifiedDate" : "2020-05-09T21:12:14Z",
+  "starred" : false,
+  "richText" : "{\"contents\":[{\"text\":\"This is something happened in history.\",\"attributes\":{\"line\":{\"header\":1}}}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":1174,\"platform\":\"com.bloombuilt.dayone-mac\"}}}",
+  "uuid" : "5F65EAB713694536A5899A1C9A6165DE",
+  "creationDeviceType" : "MacBook Pro",
+  "creationOSName" : "macOS",
+  "creationOSVersion" : "10.15.4",
+  "weather" : {
+    "sunsetDate" : "2020-05-05T05:30:58Z",
+    "temperatureCelsius" : 16,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 250,
+    "sunriseDate" : "2020-05-04T19:04:01Z",
+    "conditionsDescription" : "Light Rain",
+    "pressureMB" : 1006,
+    "visibilityKM" : 48.280200958251953,
+    "relativeHumidity" : 68,
+    "windSpeedKPH" : 31,
+    "weatherCode" : "rain",
+    "windChillCelsius" : 16.100000381469727
+  },
+  "editingTime" : 7.5905230045318604,
+  "creationDevice" : "MacBook Pro",
+  "text" : "# This is something happened in history\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 174.71673369999999,
+        "latitude" : -36.717966799999999
+      },
+      "identifier" : "<-36.71796680,+174.71673370> radius 70.64",
+      "radius" : 70.642870642927349
+    },
+    "localityName" : "Oteha",
+    "country" : "New Zealand",
+    "timeZoneName" : "Pacific\/Auckland",
+    "administrativeArea" : "Auckland",
+    "longitude" : 174.71672058105469,
+    "placeName" : "Fernhill Reserve",
+    "latitude" : -36.717987060546875
+  }
+},
+{
+  "creationOSVersion" : "10.15.4",
+  "duration" : 0,
+  "uuid" : "2BF9C546AC724EE38ED861AC0758ECA8",
+  "text" : "# Hello Again\nThis is my second diary\\.",
+  "timeZone" : "Pacific\/Auckland",
+  "creationDeviceType" : "MacBook Pro",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 174.7176662,
+        "latitude" : -36.717663999999999
+      },
+      "identifier" : "<-36.71766400,+174.71766620> radius 70.64",
+      "radius" : 70.642868247760092
+    },
+    "localityName" : "Oteha",
+    "country" : "New Zealand",
+    "timeZoneName" : "Pacific\/Auckland",
+    "administrativeArea" : "Auckland",
+    "longitude" : 174.71775817871094,
+    "placeName" : "3 Candlestick Place",
+    "latitude" : -36.717498779296875
+  },
+  "starred" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1174}},\"contents\":[{\"text\":\"Hello Again\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"This is my second diary.\\n\"}]}",
+  "creationDeviceModel" : "MacBookPro12,1",
+  "creationDate" : "2020-05-07T21:31:13Z",
+  "modifiedDate" : "2020-05-07T21:31:52Z",
+  "creationDevice" : "MacBook Pro",
+  "editingTime" : 13.662617921829224,
+  "weather" : {
+    "sunsetDate" : "2020-05-08T05:27:59Z",
+    "temperatureCelsius" : 15,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 240,
+    "sunriseDate" : "2020-05-07T19:06:36Z",
+    "conditionsDescription" : "Mostly Cloudy",
+    "pressureMB" : 1022,
+    "visibilityKM" : 48.280200958251953,
+    "relativeHumidity" : 82,
+    "windSpeedKPH" : 15,
+    "weatherCode" : "mostly-cloudy",
+    "windChillCelsius" : 15
+  },
+  "creationOSName" : "macOS"
+},
+{
+  "creationOSVersion" : "10.15.4",
+  "creationDate" : "2020-05-07T21:46:46Z",
+  "creationDevice" : "MacBook Pro",
+  "creationDeviceModel" : "MacBookPro12,1",
+  "timeZone" : "Pacific\/Auckland",
+  "editingTime" : 0,
+  "modifiedDate" : "2020-05-09T21:13:47Z",
+  "text" : ";lkjafkasd ;flakes df\nAsdfk;lj asdf;klj asd;klfj as;dk fa\nSofa\nSmf\nAsd\nFas\nDf as\nDf asd\nF a\nSmf",
+  "creationDeviceType" : "MacBook Pro",
+  "starred" : false,
+  "uuid" : "39E1A5B98A8F4557B5BDD37F43122DF8",
+  "duration" : 0,
+  "creationOSName" : "macOS"
+},
+{
+  "creationOSVersion" : "10.15.4",
+  "uuid" : "B740D23474D740208E82181B6EFCE98A",
+  "timeZone" : "Pacific\/Auckland",
+  "text" : ";lkjafkasd ;flakes df\nAsdfk;lj asdf;klj asd;klfj as;dk fa\nSofa\nSmf\nAsd\nFas\nDf as\nDf asd\nF a\nSmf",
+  "creationDeviceType" : "MacBook Pro",
+  "duration" : 0,
+  "starred" : false,
+  "creationDeviceModel" : "MacBookPro12,1",
+  "creationDate" : "2020-05-07T21:46:46Z",
+  "modifiedDate" : "2020-05-09T20:46:38Z",
+  "creationDevice" : "MacBook Pro",
+  "editingTime" : 0,
+  "creationOSName" : "macOS"
+},
+{
+  "creationOSVersion" : "10.15.4",
+  "duration" : 0,
+  "uuid" : "D051B90BE51149C89F664FE4DFB1A0D7",
+  "text" : "# ;lkjafkasd ;flakes df\nAsdfk;lj asdf;klj asd;klfj as;dk fa\nSofa\nSmf\nAsd\nFas\nDf as\nDf asd\nF a\nSmf",
+  "timeZone" : "Pacific\/Auckland",
+  "creationDeviceType" : "MacBook Pro",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 174.7174847,
+        "latitude" : -36.717597599999998
+      },
+      "identifier" : "<-36.71759760,+174.71748470> radius 70.64",
+      "radius" : 70.642867722621503
+    },
+    "localityName" : "Oteha",
+    "country" : "New Zealand",
+    "timeZoneName" : "Pacific\/Auckland",
+    "administrativeArea" : "Auckland",
+    "longitude" : 174.71746826171875,
+    "placeName" : "7 Candlestick Place",
+    "latitude" : -36.717529296875
+  },
+  "starred" : false,
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1174},\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\";lkjafkasd ;flakes df\\n\"},{\"text\":\"Asdfk;lj asdf;klj asd;klfj as;dk fa\\nSofa\\nSmf\\nAsd\\nFas\\nDf as\\nDf asd\\nF a\\nSmf\"}]}",
+  "creationDeviceModel" : "MacBookPro12,1",
+  "creationDate" : "2020-05-07T21:46:46Z",
+  "modifiedDate" : "2020-05-09T21:16:41Z",
+  "creationDevice" : "MacBook Pro",
+  "editingTime" : 16.717951059341431,
+  "weather" : {
+    "sunsetDate" : "2020-05-08T05:27:59Z",
+    "temperatureCelsius" : 17,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 230,
+    "sunriseDate" : "2020-05-07T19:06:36Z",
+    "conditionsDescription" : "Mostly Cloudy",
+    "pressureMB" : 1022,
+    "visibilityKM" : 48.280200958251953,
+    "relativeHumidity" : 77,
+    "windSpeedKPH" : 19,
+    "weatherCode" : "mostly-cloudy",
+    "windChillCelsius" : 17.200000762939453
+  },
+  "creationOSName" : "macOS"
+},
+{
+  "creationOSVersion" : "10.15.4",
+  "uuid" : "4C70EFA34F7347C1BE5D106E9A2FEB01",
+  "timeZone" : "Pacific\/Auckland",
+  "text" : "\tDate:\t11 May 2020 at 9:46:46 AM NZST\n\tWeather:\t17°C Mostly Cloudy\n\tLocation:\t7 Candlestick Place, Oteha, Auckland, New Zealand\nHello my fried. \n",
+  "creationDeviceType" : "MacBook Pro",
+  "duration" : 0,
+  "starred" : false,
+  "creationDeviceModel" : "MacBookPro12,1",
+  "creationDate" : "2020-05-09T20:17:06Z",
+  "modifiedDate" : "2020-05-09T20:46:38Z",
+  "creationDevice" : "MacBook Pro",
+  "editingTime" : 0,
+  "creationOSName" : "macOS"
+},
+{
+  "creationOSName" : "macOS",
+  "duration" : 0,
+  "modifiedDate" : "2020-05-09T21:13:47Z",
+  "creationDeviceModel" : "MacBookPro12,1",
+  "starred" : false,
+  "timeZone" : "Pacific\/Auckland",
+  "creationDevice" : "MacBook Pro",
+  "editingTime" : 0,
+  "creationOSVersion" : "10.15.4",
+  "creationDeviceType" : "MacBook Pro",
+  "creationDate" : "2020-05-09T20:17:06Z",
+  "uuid" : "FD4D78E9E27240258DBD7585EF30F965"
+},
+{
+  "creationOSVersion" : "10.15.4",
+  "duration" : 0,
+  "timeZone" : "Pacific\/Auckland",
+  "creationDeviceType" : "MacBook Pro",
+  "uuid" : "03D6F9C4015A4EDBA5AF1963D930E8A7",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 174.71775170000001,
+        "latitude" : -36.717695900000002
+      },
+      "identifier" : "<-36.71769590,+174.71775170> radius 70.64",
+      "radius" : 70.642868500253556
+    },
+    "localityName" : "Oteha",
+    "country" : "New Zealand",
+    "timeZoneName" : "Pacific\/Auckland",
+    "administrativeArea" : "Auckland",
+    "longitude" : 174.71786499023438,
+    "placeName" : "1 Candlestick Place",
+    "latitude" : -36.71759033203125
+  },
+  "starred" : false,
+  "creationDeviceModel" : "MacBookPro12,1",
+  "creationDate" : "2020-05-09T20:17:06Z",
+  "modifiedDate" : "2020-05-09T20:17:07Z",
+  "creationDevice" : "MacBook Pro",
+  "editingTime" : 0,
+  "weather" : {
+    "sunsetDate" : "2020-05-10T05:26:07Z",
+    "temperatureCelsius" : 13,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 160,
+    "sunriseDate" : "2020-05-09T19:08:18Z",
+    "conditionsDescription" : "Partly Cloudy",
+    "pressureMB" : 1025,
+    "visibilityKM" : 48.280200958251953,
+    "relativeHumidity" : 94,
+    "windSpeedKPH" : 7,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 12.800000190734863
+  },
+  "creationOSName" : "macOS"
+},
+{
+  "creationOSVersion" : "10.15.4",
+  "creationDate" : "2020-05-12T00:00:00Z",
+  "creationDevice" : "MacBook Pro",
+  "creationDeviceModel" : "MacBookPro12,1",
+  "timeZone" : "Pacific\/Auckland",
+  "editingTime" : 12.707798004150391,
+  "modifiedDate" : "2020-05-09T21:16:41Z",
+  "text" : "This will be something happening in future",
+  "creationDeviceType" : "MacBook Pro",
+  "starred" : false,
+  "uuid" : "D2AAA4D772574E75B63554C09DBBF853",
+  "richText" : "{\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1174},\"small-lines-removed\":true,\"version\":1},\"contents\":[{\"text\":\"This will be something happening in future\\n\"}]}",
+  "duration" : 0,
+  "creationOSName" : "macOS"
+}
+]}
