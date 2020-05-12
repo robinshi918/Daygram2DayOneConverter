@@ -15,7 +15,6 @@ json_obj = {
     "entries" : []
 }
 
-
 def createEntry(dt, body):
     result = {
         "creationOSVersion" : "10.15.4",
@@ -24,7 +23,7 @@ def createEntry(dt, body):
         # "text" : "This is something happened in history even earlier.",
         "creationDeviceType" : "MacBook Pro",
         "duration" : 0,
-        "starred" : 'false',
+        "starred" : False,
         "creationDeviceModel" : "MacBookPro12,1",
         # "creationDate" : "2020-05-03T00:00:00Z",
         # "modifiedDate" : "2020-05-09T21:13:47Z",
@@ -35,10 +34,8 @@ def createEntry(dt, body):
     result["uuid"] = createUuid()
     result["creationDevice"] = getDatetime(tag)
     result["modifiedDate"] = getDatetime(tag)
-    # result['text'] = getBody(body)
-    # print result
+    result['text'] = getBody(body)
     return result
-
 
 def getDatetime(dt):
     # input: December 15 Tuesday 2015 /
@@ -49,8 +46,7 @@ def getDatetime(dt):
     return dt_obj.strftime('%Y-%m-%dT%H:%M:%SZ')
 
 def getBody(text):
-    result = text.replace("\n", '\\n')
-    print result
+    result = text #.replace("\n", '\\n')
     return result
 
 pattern = r"(January|February|March|April|May|June|July|August|September|October|November|December|) [0-3][0-9] (Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday) 20[0-9][0-9] /"
@@ -82,7 +78,7 @@ for match in re.finditer(pattern, data):
 
 # the last match
 if tag_start != 0:
-    print("last match content")
+    # print("last match content")
     # print(getDatetime(tag))
     # print("body:\n" + data[tag_end+1:])
     # print(getBody(data[tag_end+1:]))
@@ -90,4 +86,4 @@ if tag_start != 0:
     json_obj['entries'].append(entry)
 
 
-print(json_obj)
+print json.dumps(json_obj, ensure_ascii=False)
