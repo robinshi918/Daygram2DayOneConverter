@@ -1,0 +1,37 @@
+{
+    "entries": [
+        {
+            "text": "Today's a fine day. nothing special happened. \n\nSecond line of the day.\n\n\n", 
+            "creationDeviceModel": "MacBookPro12,1", 
+            "modifiedDate": "2020-03-23T00:00:00Z", 
+            "creationOSName": "macOS", 
+            "duration": 0, 
+            "creationDate": "2020-03-23T00:00:00Z", 
+            "uuid": "C29D55E95B3A4D3BB144E07919BDF7D1", 
+            "editingTime": 0, 
+            "creationOSVersion": "10.15.4", 
+            "creationDevice": "MacBook Pro", 
+            "creationDeviceType": "MacBook Pro", 
+            "timeZone": "Etc\\/GMT", 
+            "starred": false
+        }, 
+        {
+            "text": "A busy day at home. so many garden tasks. \nsomething to highlight is that I fixed the leakage in the kitchen. So glad I made it!\n", 
+            "creationDeviceModel": "MacBookPro12,1", 
+            "modifiedDate": "2020-03-24T00:00:00Z", 
+            "creationOSName": "macOS", 
+            "duration": 0, 
+            "creationDate": "2020-03-24T00:00:00Z", 
+            "uuid": "FE8E05F490CD45C68835FD4BFA749F68", 
+            "editingTime": 0, 
+            "creationOSVersion": "10.15.4", 
+            "creationDevice": "MacBook Pro", 
+            "creationDeviceType": "MacBook Pro", 
+            "timeZone": "Etc\\/GMT", 
+            "starred": false
+        }
+    ], 
+    "metadata": {
+        "version": "1.0"
+    }
+}
