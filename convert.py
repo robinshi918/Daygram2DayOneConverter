@@ -32,7 +32,7 @@ def createEntry(dt, body):
         "creationOSName" : "macOS"
     }
     result["uuid"] = createUuid()
-    result["creationDevice"] = getDatetime(tag)
+    result["creationDate"] = getDatetime(tag)
     result["modifiedDate"] = getDatetime(tag)
     result['text'] = getBody(body)
     return result
