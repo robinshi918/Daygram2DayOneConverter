@@ -76,7 +76,7 @@ tag_end = 0
 body_start = 0
 body = ""
 
-with open('data_full.txt', 'r') as myfile:
+with open(input_file_name, 'r') as myfile:
     data = myfile.read()
 
 for match in re.finditer(pattern, data):
